@@ -1,0 +1,140 @@
+! 2023-06-16 https://www.uscreen.tv
+www.uscreen.tv###CybotCookiebotDialog
+
+! 2023-07-06 https://www.digitalspy.com
+www.digitalspy.com##.ot-sdk-row
+www.digitalspy.com##.ot-fade-in.onetrust-pc-dark-filter
+
+! 2023-09-11 https://fortune.com
+||buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=.paywall-selector&templateId=OT2FZZDA4OZL&templateVariantId=OTV4146738A2P&offerId=OF046HQXQ7VN&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EX53IDSMHQSP&widget=offer&iframeId=offer-0-Kea59&url=https%3A%2F%2Ffortune.com%2F2018%2F06%2F26%2Felon-musk-ad-astra-school%2F&parentDualScreenLeft=0&parentDualScreenTop=0&parentWidth=1493&parentHeight=779&parentOuterHeight=779&debug=FALSE&aid=cfQj2fM3zj&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&userProvider=piano_id&userToken=&customCookies=%7B%7D&hasLoginRequiredCallback=true&initMode=context&requestUserAuthForLinkedTerm=true&width=622.6666870117188&_qh=eda5cdb614$subdocument
+fortune.com###fortune_player_html5_api
+||fortune.com/videos/embed/eae46fef-4bb2-4250-bb22-361ef5a37f2f?autoplay=true&adTagUrl=pubads.g.doubleclick.net%2Fgampad%2Fads%3Fiu%3D%2F21809533738%2Ffortune%2Ftech%26description_url%3D%252F2018%252F06%252F26%252Felon-musk-ad-astra-school%252F%26env%3Dvp%26impl%3Ds%26correlator%3D%26tfcd%3D0%26npa%3D0%26gdfp_req%3D1%26output%3Dvast%26sz%3D640x360%26ciu_szs%3D300x250%2C728x90%26unviewed_position_start%3D1%26cust_params%3Dcid%3D2406912%2526topics%3D%2526tags%3DElon%2520Musk%252Cschool%252CSpaceX%2526ctype%3Darticle%2526premiumCategory%3Dlegacy$subdocument
+||buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=.paywall-selector&templateId=OT2FZZDA4OZL&templateVariantId=OTV4146738A2P&offerId=OF046HQXQ7VN&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EX53IDSMHQSP&widget=offer&iframeId=offer-0-Kea59&url=https%3A%2F%2Ffortune.com%2F2018%2F06%2F26%2Felon-musk-ad-astra-school%2F&parentDualScreenLeft=0&parentDualScreenTop=0&parentWidth=1493&parentHeight=779&parentOuterHeight=779&debug=FALSE&aid=cfQj2fM3zj&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&userProvider=piano_id&userToken=&customCookies=%7B%7D&hasLoginRequiredCallback=true&initMode=context&requestUserAuthForLinkedTerm=true&width=622.6666870117188&_qh=eda5cdb614$subdocument
+
+! 2023-09-27 https://edition.cnn.com
+edition.cnn.com##.ot-fade-in.onetrust-pc-dark-filter
+edition.cnn.com##.ot-sdk-container > .ot-sdk-row
+
+! 2023-09-27 https://www.bing.com
+
+! 2023-12-11 https://www.binance.com
+||bin.bnbstatic.com/static/images/home/dark_banner_bg.svg$image
+||bin.bnbstatic.com/static/images/home/dark_banner_bg.svg$image
+||bin.bnbstatic.com/static/images/home/dark_banner_bg.svg$image
+||bin.bnbstatic.com/static/images/home/dark_banner_bg.svg$image
+
+! 2024-01-01 https://archive.org
+archive.org###IABookReaderMessageWrapper > .focus-on-child-only
+
+! 2024-02-15 https://squareup.com
+squareup.com##.ot-fade-in.onetrust-pc-dark-filter
+squareup.com##.auto-layout-collapse > .bg-accent.section-hero.hero > .content
+
+! 2024-02-29 https://mods-n-hacks.gadgethacks.com
+mods-n-hacks.gadgethacks.com##.dialog-menu.menu
+mods-n-hacks.gadgethacks.com##.consentContainer.sidebar
+
+! 2024-03-28 https://xhamster.com
+xhamster.com##.contentWrapper-b6f0e.primary-48288.root-48288
+xhamster.com##.desktop-2fb52.pinned-2fb52.container-b6f0e > .custom-2fb52.promoMessageBanner-2fb52.wrapper-2fb52
+
+! 2024-03-30 https://chaturbate.com
+||web.static.mmcdn.com/tsdefaultassets/signup_popup_bg.svg$image
+chaturbate.com##.RoomSignupPopup
+
+! 2024-04-11 https://www.xfree.com
+www.xfree.com##.l-feed__aside > div > .aside-content
+www.xfree.com##.l-feed__aside
+
+! 2024-04-12 https://www.youtube.com
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+
+! 2024-05-09 https://www.ziaruldeiasi.ro
+www.ziaruldeiasi.ro###onetrust-consent-sdk
+
+! 2024-05-02 https://filelist.io
+filelist.io##div.torrentrow:has-text(Horror)
+filelist.io##div.torrentrow:has-text(Naked.and.Afraid)
+filelist.io##div.torrentrow:has-text(Animation,)
+filelist.io##div.torrentrow:has-text(Chucky.S)
+filelist.io##div.torrentrow:has-text(Survivor.S)
+filelist.io##div.torrentrow:has-text(Skazana.S)
+filelist.io##div.torrentrow:has-text(Walker.S)
+filelist.io##div.torrentrow:has-text(Survivor.Romania.S)
+filelist.io##div.torrentrow:has-text(The.Rookie.S)
+filelist.io##div.torrentrow:has-text(Lia.Sotia.Sotului.Meu.S)
+filelist.io##div.torrentrow:has-text(The.Amazing.Race.S)
+filelist.io##div.torrentrow:has-text(The.Conners.S)
+filelist.io##div.torrentrow:has-text(We.Were.The.Lucky.Ones.S)
+filelist.io##div.torrentrow:has-text(Hacks.2021.S)
+filelist.io##div.torrentrow:has-text(Will.Trent.S)
+filelist.io##div.torrentrow:has-text(Not.Dead.Yet.S)
+filelist.io##div.torrentrow:has-text(The.Good.Doctor.S)
+filelist.io##div.torrentrow:has-text(Under.the.Bridge.)
+filelist.io##div.torrentrow:has-text(Hudson.and.Rex.S)
+filelist.io##div.torrentrow:has-text(Palm.Royale.S)
+filelist.io##div.torrentrow:has-text(The.Big.Door.Prize.S)
+filelist.io##div.torrentrow:has-text(Loot.S)
+filelist.io##div.torrentrow:has-text(Las.Fierbinti.S)
+filelist.io##div.torrentrow:has-text(NCIS.S)
+filelist.io##div.torrentrow:has-text(NCIS.Ha)
+filelist.io##div.torrentrow:has-text(Clanul.S)
+filelist.io##div.torrentrow:has-text(Insula.de.1.milion.S)
+filelist.io##div.torrentrow:has-text(Acapulco.S)
+filelist.io##div.torrentrow:has-text(All.American.S)
+filelist.io##div.torrentrow:has-text(CSI.)
+filelist.io##div.torrentrow:has-text(Nun-mul-eui.Yeo-wang)
+filelist.io##div.torrentrow:has-text(Vanderpump.Villa.S)
+filelist.io##div.torrentrow:has-text(Midsomer.Murders.S)
+filelist.io##div.torrentrow:has-text(Romania.te.iubesc.)
+filelist.io##div.torrentrow:has-text(The.Equalizer.2021.S)
+filelist.io##div.torrentrow:has-text(The.Sympathizer.S)
+filelist.io##div.torrentrow:has-text(El.caso.Asunta.S)
+filelist.io##div.torrentrow:has-text(Te.Cunosc.de.Undeva.S)
+filelist.io##div.torrentrow:has-text(S.W.A.T.2017.S)
+filelist.io##div.torrentrow:has-text(Blue.Bloods.S)
+filelist.io##div.torrentrow:has-text(Fire.Country.S)
+filelist.io##div.torrentrow:has-text(Lasa-ma.imi.place.Camera.)
+filelist.io##div.torrentrow:has-text(Web.Therapy.2011)
+filelist.io##div.torrentrow:has-text(Ghosts.US.S)
+filelist.io##div.torrentrow:has-text(So.Help.Me.Todd.S)
+filelist.io##div.torrentrow:has-text(Young.Sheldon.S)
+filelist.io##div.torrentrow:has-text(Station.19.S)
+filelist.io##div.torrentrow:has-text(Mary.and.Jane.S)
+filelist.io##div.torrentrow:has-text(Diarra.From.Detroit.S)
+filelist.io##div.torrentrow:has-text(Dinner.with.the.Parents.S)
+filelist.io##div.torrentrow:has-text(The.Circle.US.S)
+filelist.io##div.torrentrow:has-text(FBI.)
+filelist.io##div.torrentrow:has-text(The.Neighborhood.S)
+filelist.io##div.torrentrow:has-text(Chicago.P.D.S)
+filelist.io##div.torrentrow:has-text(Chicago.Fire.S)
+filelist.io##div.torrentrow:has-text(The.Curse.of.Oak.Island.S)
+filelist.io##div.torrentrow:has(a[href="browse.php?cat=1"])
+filelist.io##div.torrentrow:has(a[href="browse.php?cat=11"])
+filelist.io##div.torrentrow:has(a[href="browse.php?cat=13"])
+filelist.io##div.torrentrow:has(a[href="browse.php?cat=20"])
+filelist.io##div.torrentrow:has(a[href="browse.php?cat=23"])
+filelist.io##div.torrentrow:has(a[href="browse.php?cat=27"])
+filelist.io##div.torrentrow:has-text(Romanii.au.talent.S)
+filelist.io##div.torrentrow:has-text(Welcome.to.Wrexham.S)
+filelist.io##div.torrentrow:has-text(Law.and.Order.Organized.Crime.S)
+filelist.io##div.torrentrow:has-text(Greys.Anatomy.S)
+filelist.io##div.torrentrow:has-text(Law.and.Order.S)
+filelist.io##div.torrentrow:has-text(Abbott.Elementary.S)
+filelist.io##div.torrentrow:has-text(9-1-1.S)
+filelist.io##div.torrentrow:has-text(Te.cunosc.de.undeva.S)
+filelist.io##div.torrentrow:has-text(Liga.1.)
+filelist.io##div.torrentrow:has-text(Saturday.Night.Live.S)
+filelist.io##div.torrentrow:has-text()
+filelist.io##div.torrentrow:has-text()
+filelist.io##div.torrentrow:has-text()
+filelist.io##div.torrentrow:has-text()
+filelist.io##div.torrentrow:has-text()
+filelist.io##div.torrentrow:has-text()
+filelist.io##div.torrentrow:has-text()
+filelist.io##div.torrentrow:has-text()
+filelist.io##div.torrentrow:has-text()
+
+! 2024-05-29 https://www.bbc.co.uk
+www.bbc.co.uk##.exhqgzu0.ssrcss-darju4-ConsentBanner
+
